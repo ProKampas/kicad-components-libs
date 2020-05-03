@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMEJ-0627-42-P
+D Microphones microphone, 6 mm, electret condenser, omnidirectional, Pin, 2 Vdc, 42 dB sensitivity
+K
+F https://componentsearchengine.com/Datasheets/1/CMEJ-0627-42-P.pdf
+$ENDCMP
+#
+#End Doc Library

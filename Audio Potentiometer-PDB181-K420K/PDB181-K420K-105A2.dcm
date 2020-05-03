@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDB181-K420K-105A2
+D Potentiometers PANEL CONTROL 17MM-ST-CARBON
+K
+F https://www.bourns.com/docs/product-datasheets/PDB18.pdf
+$ENDCMP
+#
+#End Doc Library

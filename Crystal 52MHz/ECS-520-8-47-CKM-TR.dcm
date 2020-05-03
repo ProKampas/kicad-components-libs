@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-520-8-47-CKM-TR
+D Crystals 52MHz 10ppm 8pF -20C +70C
+K
+F https://componentsearchengine.com/Datasheets/1/ECS-520-8-47-CKM-TR.pdf
+$ENDCMP
+#
+#End Doc Library
